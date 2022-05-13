@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"name": "FULL",
+			"path": ".."
+		}
+	],
+	"settings": {},
+	"extensions": {
+		"recommendations": [
+			"steoates.autoimport"
+		]
+	}
+}
