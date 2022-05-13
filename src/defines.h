@@ -4,10 +4,8 @@
 #include "Pin.h"
 
 
-#include <TimerMs.h>
 
 
-#include <Adafruit_CCS811.h>
 #include "ClosedCube_TCA9548A.h"
 #include "RTClib.h"
 //#include <TM1637Display.h>
@@ -18,26 +16,22 @@
 #include <DallasTemperature.h> //Library for DS18B20 Sensor
 #include <ADS1256.h>
  #include <math.h>// Library for math function 
-
+#include <pcf8574_esp.h>
 #include <Adafruit_Sensor.h>
 #include <DHT.h>
 #include <DHT_U.h>
 #include <CD74HC4067.h>
-
+ #include "util/OneWire_direct_regtype.h"
 
 
 #include <PCF8574.h>
 
-#define EXP_ADDRESS 0x27
+#define EXP_ADDRESS 0x25
 #define PINA 0
 #define PINB 1
 #define BUTTON 2
 ENCODER encoder(EXP_ADDRESS, PINA, PINB, BUTTON); // PCF8574 @ address 0b0100/A2/A1/A0, to GND = 0, to LOGIC (3,3V;5V) = 1
-
-PCF8574 expander(0x22);
-
-
-#define DEBOUNCE 100  // таймаут антидребезга, миллисекунды
+#define DEBOUNCE 300  // таймаут антидребезга, миллисекунды
 #define holdbTimer 350 
  int encoder_pos;
 int getMove ;
@@ -91,6 +85,7 @@ ADS1256 ads;
 
 
 LCD_I2C lcd(0x27, 16, 2); // Default address of most PCF8574 modules, change according
+LCD_I2C lcd2(0x21, 20, 4); // Default address of most PCF8574 modules, change according
 // const int trigPin = 14;
 // const int echoPin = 12;
 // long duration;
@@ -100,27 +95,29 @@ LCD_I2C lcd(0x27, 16, 2); // Default address of most PCF8574 modules, change acc
 // if you don't know your display address, run an I2C scanner sketch
 
 
- float sensorValue = 0 ;
-float tdsValue = 0 ;
+ float sensorValue;
+float tdsValue ;
   float Voltage ;
   float pHValue ;
   long phTot;   //, temTot
   float phAvg; //, temAvg
   int x;
-  const float C = 16.96; //Constant of straight line (Y = mx + C)pH = a*xV + b
-  //4,01 = a*(3,04)+b
-  //6,86 = a*(2,54)+b
-  //Тогда я получаю результат y = -5,7*21338.
-  const float m = -4.35; // Slope of straight line (Y = mx + C)
-  //Pin Assignment and declearation end
+  // const float C = 16.96; //Constant of straight line (Y = mx + C)pH = a*xV + b
+  // //4,01 = a*(3,04)+b
+  // //6,86 = a*(2,54)+b
+  // //Тогда я получаю результат y = -5,7*21338.
+  // const float m = -4.35; // Slope of straight line (Y = mx + C)
+  // //Pin Assignment and declearation end
 
 
 
-
+// переменные времени
+uint32_t myTimer, myTimer1, myTimer2;
+uint32_t myTimer3;
 
 
 // Initialize a PCF8574 at I2C-address 0x20
-
+PCF857x pcf1(0x22, &Wire);
 
 //If you had a PCF8575 instead you'd use the below format
 //PCF857x pcf8575(0x20, &Wire, true);
