@@ -1,0 +1,252 @@
+[
+    {
+        "command": "C:\\Users\\Woota\\.platformio\\packages\\toolchain-xtensa-esp32@8.4.0+2021r1\\bin\\xtensa-esp32-elf-g++.exe @D:\\FULL\\.pio\\build\\esp32dev\\tmpigk2n_01.tmp",
+        "directory": "D:\\FULL",
+        "file": "C:\\Users\\Woota\\.platformio\\packages\\framework-arduinoespressif32\\cores\\esp32\\Esp.cpp"
+    },
+    {
+        "command": "C:\\Users\\Woota\\.platformio\\packages\\toolchain-xtensa-esp32@8.4.0+2021r1\\bin\\xtensa-esp32-elf-g++.exe @D:\\FULL\\.pio\\build\\esp32dev\\tmpm_8iroqb.tmp",
+        "directory": "D:\\FULL",
+        "file": "C:\\Users\\Woota\\.platformio\\packages\\framework-arduinoespressif32\\cores\\esp32\\FirmwareMSC.cpp"
+    },
+    {
+        "command": "C:\\Users\\Woota\\.platformio\\packages\\toolchain-xtensa-esp32@8.4.0+2021r1\\bin\\xtensa-esp32-elf-g++.exe @D:\\FULL\\.pio\\build\\esp32dev\\tmpv_yb697f.tmp",
+        "directory": "D:\\FULL",
+        "file": "C:\\Users\\Woota\\.platformio\\packages\\framework-arduinoespressif32\\cores\\esp32\\FunctionalInterrupt.cpp"
+    },
+    {
+        "command": "C:\\Users\\Woota\\.platformio\\packages\\toolchain-xtensa-esp32@8.4.0+2021r1\\bin\\xtensa-esp32-elf-g++.exe @D:\\FULL\\.pio\\build\\esp32dev\\tmp9pxmx4yl.tmp",
+        "directory": "D:\\FULL",
+        "file": "C:\\Users\\Woota\\.platformio\\packages\\framework-arduinoespressif32\\cores\\esp32\\HWCDC.cpp"
+    },
+    {
+        "command": "C:\\Users\\Woota\\.platformio\\packages\\toolchain-xtensa-esp32@8.4.0+2021r1\\bin\\xtensa-esp32-elf-g++.exe @D:\\FULL\\.pio\\build\\esp32dev\\tmppg3tar2f.tmp",
+        "directory": "D:\\FULL",
+        "file": "C:\\Users\\Woota\\.platformio\\packages\\framework-arduinoespressif32\\cores\\esp32\\HardwareSerial.cpp"
+    },
+    {
+        "command": "C:\\Users\\Woota\\.platformio\\packages\\toolchain-xtensa-esp32@8.4.0+2021r1\\bin\\xtensa-esp32-elf-g++.exe @D:\\FULL\\.pio\\build\\esp32dev\\tmpjaxma1yr.tmp",
+        "directory": "D:\\FULL",
+        "file": "C:\\Users\\Woota\\.platformio\\packages\\framework-arduinoespressif32\\cores\\esp32\\IPAddress.cpp"
+    },
+    {
+        "command": "C:\\Users\\Woota\\.platformio\\packages\\toolchain-xtensa-esp32@8.4.0+2021r1\\bin\\xtensa-esp32-elf-g++.exe @D:\\FULL\\.pio\\build\\esp32dev\\tmp5dbjbpx9.tmp",
+        "directory": "D:\\FULL",
+        "file": "C:\\Users\\Woota\\.platformio\\packages\\framework-arduinoespressif32\\cores\\esp32\\IPv6Address.cpp"
+    },
+    {
+        "command": "C:\\Users\\Woota\\.platformio\\packages\\toolchain-xtensa-esp32@8.4.0+2021r1\\bin\\xtensa-esp32-elf-g++.exe @D:\\FULL\\.pio\\build\\esp32dev\\tmp0rbfjpof.tmp",
+        "directory": "D:\\FULL",
+        "file": "C:\\Users\\Woota\\.platformio\\packages\\framework-arduinoespressif32\\cores\\esp32\\MD5Builder.cpp"
+    },
+    {
+        "command": "C:\\Users\\Woota\\.platformio\\packages\\toolchain-xtensa-esp32@8.4.0+2021r1\\bin\\xtensa-esp32-elf-g++.exe @D:\\FULL\\.pio\\build\\esp32dev\\tmp_nxjh9fh.tmp",
+        "directory": "D:\\FULL",
+        "file": "C:\\Users\\Woota\\.platformio\\packages\\framework-arduinoespressif32\\cores\\esp32\\Print.cpp"
+    },
+    {
+        "command": "C:\\Users\\Woota\\.platformio\\packages\\toolchain-xtensa-esp32@8.4.0+2021r1\\bin\\xtensa-esp32-elf-g++.exe @D:\\FULL\\.pio\\build\\esp32dev\\tmpeesmsnmt.tmp",
+        "directory": "D:\\FULL",
+        "file": "C:\\Users\\Woota\\.platformio\\packages\\framework-arduinoespressif32\\cores\\esp32\\Stream.cpp"
+    },
+    {
+        "command": "C:\\Users\\Woota\\.platformio\\packages\\toolchain-xtensa-esp32@8.4.0+2021r1\\bin\\xtensa-esp32-elf-g++.exe @D:\\FULL\\.pio\\build\\esp32dev\\tmp7igklch6.tmp",
+        "directory": "D:\\FULL",
+        "file": "C:\\Users\\Woota\\.platformio\\packages\\framework-arduinoespressif32\\cores\\esp32\\StreamString.cpp"
+    },
+    {
+        "command": "C:\\Users\\Woota\\.platformio\\packages\\toolchain-xtensa-esp32@8.4.0+2021r1\\bin\\xtensa-esp32-elf-g++.exe @D:\\FULL\\.pio\\build\\esp32dev\\tmps40202p7.tmp",
+        "directory": "D:\\FULL",
+        "file": "C:\\Users\\Woota\\.platformio\\packages\\framework-arduinoespressif32\\cores\\esp32\\USB.cpp"
+    },
+    {
+        "command": "C:\\Users\\Woota\\.platformio\\packages\\toolchain-xtensa-esp32@8.4.0+2021r1\\bin\\xtensa-esp32-elf-g++.exe @D:\\FULL\\.pio\\build\\esp32dev\\tmp9gvjgeoo.tmp",
+        "directory": "D:\\FULL",
+        "file": "C:\\Users\\Woota\\.platformio\\packages\\framework-arduinoespressif32\\cores\\esp32\\USBCDC.cpp"
+    },
+    {
+        "command": "C:\\Users\\Woota\\.platformio\\packages\\toolchain-xtensa-esp32@8.4.0+2021r1\\bin\\xtensa-esp32-elf-g++.exe @D:\\FULL\\.pio\\build\\esp32dev\\tmpjbr19058.tmp",
+        "directory": "D:\\FULL",
+        "file": "C:\\Users\\Woota\\.platformio\\packages\\framework-arduinoespressif32\\cores\\esp32\\USBMSC.cpp"
+    },
+    {
+        "command": "C:\\Users\\Woota\\.platformio\\packages\\toolchain-xtensa-esp32@8.4.0+2021r1\\bin\\xtensa-esp32-elf-g++.exe @D:\\FULL\\.pio\\build\\esp32dev\\tmpqai1cocv.tmp",
+        "directory": "D:\\FULL",
+        "file": "C:\\Users\\Woota\\.platformio\\packages\\framework-arduinoespressif32\\cores\\esp32\\WMath.cpp"
+    },
+    {
+        "command": "C:\\Users\\Woota\\.platformio\\packages\\toolchain-xtensa-esp32@8.4.0+2021r1\\bin\\xtensa-esp32-elf-g++.exe @D:\\FULL\\.pio\\build\\esp32dev\\tmpm62dboib.tmp",
+        "directory": "D:\\FULL",
+        "file": "C:\\Users\\Woota\\.platformio\\packages\\framework-arduinoespressif32\\cores\\esp32\\WString.cpp"
+    },
+    {
+        "command": "C:\\Users\\Woota\\.platformio\\packages\\toolchain-xtensa-esp32@8.4.0+2021r1\\bin\\xtensa-esp32-elf-g++.exe @D:\\FULL\\.pio\\build\\esp32dev\\tmp028pfgrk.tmp",
+        "directory": "D:\\FULL",
+        "file": "C:\\Users\\Woota\\.platformio\\packages\\framework-arduinoespressif32\\cores\\esp32\\base64.cpp"
+    },
+    {
+        "command": "C:\\Users\\Woota\\.platformio\\packages\\toolchain-xtensa-esp32@8.4.0+2021r1\\bin\\xtensa-esp32-elf-g++.exe @D:\\FULL\\.pio\\build\\esp32dev\\tmpfj55tlb9.tmp",
+        "directory": "D:\\FULL",
+        "file": "C:\\Users\\Woota\\.platformio\\packages\\framework-arduinoespressif32\\cores\\esp32\\cbuf.cpp"
+    },
+    {
+        "command": "C:\\Users\\Woota\\.platformio\\packages\\toolchain-xtensa-esp32@8.4.0+2021r1\\bin\\xtensa-esp32-elf-gcc.exe @D:\\FULL\\.pio\\build\\esp32dev\\tmpzl01vcrc.tmp",
+        "directory": "D:\\FULL",
+        "file": "C:\\Users\\Woota\\.platformio\\packages\\framework-arduinoespressif32\\cores\\esp32\\esp32-hal-adc.c"
+    },
+    {
+        "command": "C:\\Users\\Woota\\.platformio\\packages\\toolchain-xtensa-esp32@8.4.0+2021r1\\bin\\xtensa-esp32-elf-gcc.exe @D:\\FULL\\.pio\\build\\esp32dev\\tmpzfjkj0l_.tmp",
+        "directory": "D:\\FULL",
+        "file": "C:\\Users\\Woota\\.platformio\\packages\\framework-arduinoespressif32\\cores\\esp32\\esp32-hal-bt.c"
+    },
+    {
+        "command": "C:\\Users\\Woota\\.platformio\\packages\\toolchain-xtensa-esp32@8.4.0+2021r1\\bin\\xtensa-esp32-elf-gcc.exe @D:\\FULL\\.pio\\build\\esp32dev\\tmpsstvjd2g.tmp",
+        "directory": "D:\\FULL",
+        "file": "C:\\Users\\Woota\\.platformio\\packages\\framework-arduinoespressif32\\cores\\esp32\\esp32-hal-cpu.c"
+    },
+    {
+        "command": "C:\\Users\\Woota\\.platformio\\packages\\toolchain-xtensa-esp32@8.4.0+2021r1\\bin\\xtensa-esp32-elf-gcc.exe @D:\\FULL\\.pio\\build\\esp32dev\\tmpb5jcahao.tmp",
+        "directory": "D:\\FULL",
+        "file": "C:\\Users\\Woota\\.platformio\\packages\\framework-arduinoespressif32\\cores\\esp32\\esp32-hal-dac.c"
+    },
+    {
+        "command": "C:\\Users\\Woota\\.platformio\\packages\\toolchain-xtensa-esp32@8.4.0+2021r1\\bin\\xtensa-esp32-elf-gcc.exe @D:\\FULL\\.pio\\build\\esp32dev\\tmpswp4liw8.tmp",
+        "directory": "D:\\FULL",
+        "file": "C:\\Users\\Woota\\.platformio\\packages\\framework-arduinoespressif32\\cores\\esp32\\esp32-hal-gpio.c"
+    },
+    {
+        "command": "C:\\Users\\Woota\\.platformio\\packages\\toolchain-xtensa-esp32@8.4.0+2021r1\\bin\\xtensa-esp32-elf-gcc.exe @D:\\FULL\\.pio\\build\\esp32dev\\tmpd3d1vu5l.tmp",
+        "directory": "D:\\FULL",
+        "file": "C:\\Users\\Woota\\.platformio\\packages\\framework-arduinoespressif32\\cores\\esp32\\esp32-hal-i2c.c"
+    },
+    {
+        "command": "C:\\Users\\Woota\\.platformio\\packages\\toolchain-xtensa-esp32@8.4.0+2021r1\\bin\\xtensa-esp32-elf-gcc.exe @D:\\FULL\\.pio\\build\\esp32dev\\tmpoxskzonn.tmp",
+        "directory": "D:\\FULL",
+        "file": "C:\\Users\\Woota\\.platformio\\packages\\framework-arduinoespressif32\\cores\\esp32\\esp32-hal-ledc.c"
+    },
+    {
+        "command": "C:\\Users\\Woota\\.platformio\\packages\\toolchain-xtensa-esp32@8.4.0+2021r1\\bin\\xtensa-esp32-elf-gcc.exe @D:\\FULL\\.pio\\build\\esp32dev\\tmp12j2grm8.tmp",
+        "directory": "D:\\FULL",
+        "file": "C:\\Users\\Woota\\.platformio\\packages\\framework-arduinoespressif32\\cores\\esp32\\esp32-hal-matrix.c"
+    },
+    {
+        "command": "C:\\Users\\Woota\\.platformio\\packages\\toolchain-xtensa-esp32@8.4.0+2021r1\\bin\\xtensa-esp32-elf-gcc.exe @D:\\FULL\\.pio\\build\\esp32dev\\tmpvflbr6oq.tmp",
+        "directory": "D:\\FULL",
+        "file": "C:\\Users\\Woota\\.platformio\\packages\\framework-arduinoespressif32\\cores\\esp32\\esp32-hal-misc.c"
+    },
+    {
+        "command": "C:\\Users\\Woota\\.platformio\\packages\\toolchain-xtensa-esp32@8.4.0+2021r1\\bin\\xtensa-esp32-elf-gcc.exe @D:\\FULL\\.pio\\build\\esp32dev\\tmp59334k2c.tmp",
+        "directory": "D:\\FULL",
+        "file": "C:\\Users\\Woota\\.platformio\\packages\\framework-arduinoespressif32\\cores\\esp32\\esp32-hal-psram.c"
+    },
+    {
+        "command": "C:\\Users\\Woota\\.platformio\\packages\\toolchain-xtensa-esp32@8.4.0+2021r1\\bin\\xtensa-esp32-elf-gcc.exe @D:\\FULL\\.pio\\build\\esp32dev\\tmppv2z32vz.tmp",
+        "directory": "D:\\FULL",
+        "file": "C:\\Users\\Woota\\.platformio\\packages\\framework-arduinoespressif32\\cores\\esp32\\esp32-hal-rmt.c"
+    },
+    {
+        "command": "C:\\Users\\Woota\\.platformio\\packages\\toolchain-xtensa-esp32@8.4.0+2021r1\\bin\\xtensa-esp32-elf-gcc.exe @D:\\FULL\\.pio\\build\\esp32dev\\tmphnbut6k_.tmp",
+        "directory": "D:\\FULL",
+        "file": "C:\\Users\\Woota\\.platformio\\packages\\framework-arduinoespressif32\\cores\\esp32\\esp32-hal-sigmadelta.c"
+    },
+    {
+        "command": "C:\\Users\\Woota\\.platformio\\packages\\toolchain-xtensa-esp32@8.4.0+2021r1\\bin\\xtensa-esp32-elf-gcc.exe @D:\\FULL\\.pio\\build\\esp32dev\\tmpp4smjoe5.tmp",
+        "directory": "D:\\FULL",
+        "file": "C:\\Users\\Woota\\.platformio\\packages\\framework-arduinoespressif32\\cores\\esp32\\esp32-hal-spi.c"
+    },
+    {
+        "command": "C:\\Users\\Woota\\.platformio\\packages\\toolchain-xtensa-esp32@8.4.0+2021r1\\bin\\xtensa-esp32-elf-gcc.exe @D:\\FULL\\.pio\\build\\esp32dev\\tmpjhu1xzuu.tmp",
+        "directory": "D:\\FULL",
+        "file": "C:\\Users\\Woota\\.platformio\\packages\\framework-arduinoespressif32\\cores\\esp32\\esp32-hal-time.c"
+    },
+    {
+        "command": "C:\\Users\\Woota\\.platformio\\packages\\toolchain-xtensa-esp32@8.4.0+2021r1\\bin\\xtensa-esp32-elf-gcc.exe @D:\\FULL\\.pio\\build\\esp32dev\\tmp1ic8tqu4.tmp",
+        "directory": "D:\\FULL",
+        "file": "C:\\Users\\Woota\\.platformio\\packages\\framework-arduinoespressif32\\cores\\esp32\\esp32-hal-timer.c"
+    },
+    {
+        "command": "C:\\Users\\Woota\\.platformio\\packages\\toolchain-xtensa-esp32@8.4.0+2021r1\\bin\\xtensa-esp32-elf-gcc.exe @D:\\FULL\\.pio\\build\\esp32dev\\tmpkwug1c7t.tmp",
+        "directory": "D:\\FULL",
+        "file": "C:\\Users\\Woota\\.platformio\\packages\\framework-arduinoespressif32\\cores\\esp32\\esp32-hal-tinyusb.c"
+    },
+    {
+        "command": "C:\\Users\\Woota\\.platformio\\packages\\toolchain-xtensa-esp32@8.4.0+2021r1\\bin\\xtensa-esp32-elf-gcc.exe @D:\\FULL\\.pio\\build\\esp32dev\\tmpyw6ajk62.tmp",
+        "directory": "D:\\FULL",
+        "file": "C:\\Users\\Woota\\.platformio\\packages\\framework-arduinoespressif32\\cores\\esp32\\esp32-hal-touch.c"
+    },
+    {
+        "command": "C:\\Users\\Woota\\.platformio\\packages\\toolchain-xtensa-esp32@8.4.0+2021r1\\bin\\xtensa-esp32-elf-gcc.exe @D:\\FULL\\.pio\\build\\esp32dev\\tmpuio0gl0x.tmp",
+        "directory": "D:\\FULL",
+        "file": "C:\\Users\\Woota\\.platformio\\packages\\framework-arduinoespressif32\\cores\\esp32\\esp32-hal-uart.c"
+    },
+    {
+        "command": "C:\\Users\\Woota\\.platformio\\packages\\toolchain-xtensa-esp32@8.4.0+2021r1\\bin\\xtensa-esp32-elf-gcc.exe @D:\\FULL\\.pio\\build\\esp32dev\\tmphk25m2os.tmp",
+        "directory": "D:\\FULL",
+        "file": "C:\\Users\\Woota\\.platformio\\packages\\framework-arduinoespressif32\\cores\\esp32\\firmware_msc_fat.c"
+    },
+    {
+        "command": "C:\\Users\\Woota\\.platformio\\packages\\toolchain-xtensa-esp32@8.4.0+2021r1\\bin\\xtensa-esp32-elf-gcc.exe @D:\\FULL\\.pio\\build\\esp32dev\\tmp49riienc.tmp",
+        "directory": "D:\\FULL",
+        "file": "C:\\Users\\Woota\\.platformio\\packages\\framework-arduinoespressif32\\cores\\esp32\\libb64\\cdecode.c"
+    },
+    {
+        "command": "C:\\Users\\Woota\\.platformio\\packages\\toolchain-xtensa-esp32@8.4.0+2021r1\\bin\\xtensa-esp32-elf-gcc.exe @D:\\FULL\\.pio\\build\\esp32dev\\tmpmpzxndkr.tmp",
+        "directory": "D:\\FULL",
+        "file": "C:\\Users\\Woota\\.platformio\\packages\\framework-arduinoespressif32\\cores\\esp32\\libb64\\cencode.c"
+    },
+    {
+        "command": "C:\\Users\\Woota\\.platformio\\packages\\toolchain-xtensa-esp32@8.4.0+2021r1\\bin\\xtensa-esp32-elf-g++.exe @D:\\FULL\\.pio\\build\\esp32dev\\tmpfo_26o_f.tmp",
+        "directory": "D:\\FULL",
+        "file": "C:\\Users\\Woota\\.platformio\\packages\\framework-arduinoespressif32\\cores\\esp32\\main.cpp"
+    },
+    {
+        "command": "C:\\Users\\Woota\\.platformio\\packages\\toolchain-xtensa-esp32@8.4.0+2021r1\\bin\\xtensa-esp32-elf-gcc.exe @D:\\FULL\\.pio\\build\\esp32dev\\tmpzar0p0yy.tmp",
+        "directory": "D:\\FULL",
+        "file": "C:\\Users\\Woota\\.platformio\\packages\\framework-arduinoespressif32\\cores\\esp32\\stdlib_noniso.c"
+    },
+    {
+        "command": "C:\\Users\\Woota\\.platformio\\packages\\toolchain-xtensa-esp32@8.4.0+2021r1\\bin\\xtensa-esp32-elf-gcc.exe @D:\\FULL\\.pio\\build\\esp32dev\\tmplp14aoyw.tmp",
+        "directory": "D:\\FULL",
+        "file": "C:\\Users\\Woota\\.platformio\\packages\\framework-arduinoespressif32\\cores\\esp32\\wiring_pulse.c"
+    },
+    {
+        "command": "C:\\Users\\Woota\\.platformio\\packages\\toolchain-xtensa-esp32@8.4.0+2021r1\\bin\\xtensa-esp32-elf-gcc.exe @D:\\FULL\\.pio\\build\\esp32dev\\tmphtxwtbyn.tmp",
+        "directory": "D:\\FULL",
+        "file": "C:\\Users\\Woota\\.platformio\\packages\\framework-arduinoespressif32\\cores\\esp32\\wiring_shift.c"
+    },
+    {
+        "command": "C:\\Users\\Woota\\.platformio\\packages\\toolchain-xtensa-esp32@8.4.0+2021r1\\bin\\xtensa-esp32-elf-g++.exe @D:\\FULL\\.pio\\build\\esp32dev\\tmpo0vq67lm.tmp",
+        "directory": "D:\\FULL",
+        "file": "C:\\Users\\Woota\\.platformio\\packages\\framework-arduinoespressif32\\libraries\\Wire\\src\\Wire.cpp"
+    },
+    {
+        "command": "C:\\Users\\Woota\\.platformio\\packages\\toolchain-xtensa-esp32@8.4.0+2021r1\\bin\\xtensa-esp32-elf-g++.exe @D:\\FULL\\.pio\\build\\esp32dev\\tmpsjp4jfmc.tmp",
+        "directory": "D:\\FULL",
+        "file": "C:\\Users\\Woota\\.platformio\\packages\\framework-arduinoespressif32\\libraries\\SPI\\src\\SPI.cpp"
+    },
+    {
+        "command": "C:\\Users\\Woota\\.platformio\\packages\\toolchain-xtensa-esp32@8.4.0+2021r1\\bin\\xtensa-esp32-elf-g++.exe @D:\\FULL\\.pio\\build\\esp32dev\\tmpvsi2k3fw.tmp",
+        "directory": "D:\\FULL",
+        "file": "D:\\FULL\\.pio\\libdeps\\esp32dev\\Adafruit BusIO\\Adafruit_BusIO_Register.cpp"
+    },
+    {
+        "command": "C:\\Users\\Woota\\.platformio\\packages\\toolchain-xtensa-esp32@8.4.0+2021r1\\bin\\xtensa-esp32-elf-g++.exe @D:\\FULL\\.pio\\build\\esp32dev\\tmpjtyjgak8.tmp",
+        "directory": "D:\\FULL",
+        "file": "D:\\FULL\\.pio\\libdeps\\esp32dev\\Adafruit BusIO\\Adafruit_I2CDevice.cpp"
+    },
+    {
+        "command": "C:\\Users\\Woota\\.platformio\\packages\\toolchain-xtensa-esp32@8.4.0+2021r1\\bin\\xtensa-esp32-elf-g++.exe @D:\\FULL\\.pio\\build\\esp32dev\\tmpta2j3t62.tmp",
+        "directory": "D:\\FULL",
+        "file": "D:\\FULL\\.pio\\libdeps\\esp32dev\\Adafruit BusIO\\Adafruit_SPIDevice.cpp"
+    },
+    {
+        "command": "C:\\Users\\Woota\\.platformio\\packages\\toolchain-xtensa-esp32@8.4.0+2021r1\\bin\\xtensa-esp32-elf-g++.exe @D:\\FULL\\.pio\\build\\esp32dev\\tmphzwq_s_z.tmp",
+        "directory": "D:\\FULL",
+        "file": "C:\\Users\\Woota\\Documents\\Arduino\\libraries\\EasyTransferI2C\\EasyTransferI2C.cpp"
+    },
+    {
+        "command": "C:\\Users\\Woota\\.platformio\\packages\\toolchain-xtensa-esp32@8.4.0+2021r1\\bin\\xtensa-esp32-elf-g++.exe @D:\\FULL\\.pio\\build\\esp32dev\\tmpeyxt173e.tmp",
+        "directory": "D:\\FULL",
+        "file": "D:\\FULL\\src\\main.cpp"
+    }
+]
